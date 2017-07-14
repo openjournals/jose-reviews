@@ -4,7 +4,7 @@
 
 This is the GitHub repository used to track the progress of reviews for The Journal of Open Source Education (JOSE). You can view the papers currently in review [here](https://github.com/openjournals/jose-reviews/issues). :construction:
 
-If you're looking for more information about the JOSE project you might like to take a look at the JOSE website: http://jose.theoj.org/about . Alternatively, if you're looking for the open source application that powers JOSE then head over here: https://github.com/openjournals/jose
+If you're looking for more information about the JOSE project you might like to take a look at the JOSE website: http://jose.theoj.org/about. Alternatively, if you're looking for the open source application that powers JOSE then head over here: https://github.com/openjournals/jose.
 
 ## Code of Conduct
 
