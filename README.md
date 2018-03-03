@@ -1,6 +1,6 @@
 :warning: **Please don't submit bug reports for JOSE here. Instead please submit them to [the JOSE repo](https://github.com/openjournals/jose/issues)** :warning:
 
-# Reviews for the Journal of Open Source Edcuation
+# Reviews for the Journal of Open Source Education
 
 This is the GitHub repository used to track the progress of reviews for The Journal of Open Source Education (JOSE). You can view the papers currently in review [here](https://github.com/openjournals/jose-reviews/issues). :construction:
 
