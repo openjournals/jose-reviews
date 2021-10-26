@@ -7,7 +7,7 @@ Agenda for November Meeting
 - **Location:** Zoom Link Here
 - **Date:** Nov X, 2021 12:00 PM (EST)
 - **Agenda**
-1. Walk through signup flow `45min`
+1. Test Title `45min`
 	> [name=Yukai]
 2. Sprint planning `45min`
 3. Revisit onboarding v1 `20min`
@@ -22,9 +22,10 @@ Agenda for November Meeting
 
 :::
 
-## Walk through signup flow 
+## Test Title
 
-- [Slide to explain the flow](/p/slide-example)
+- Agenda information
+- Test push function
 
 :dart: Sprint Goal
 ---
