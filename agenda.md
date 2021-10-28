@@ -29,7 +29,7 @@ Agenda for November Meeting
 
 :dart: Sprint Goal
 ---
-- Identify tasks that can help us raise conversion rate
+- Test Github side of things.
 
 :books: Sprint Backlog
 ---
