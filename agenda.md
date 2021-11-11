@@ -5,7 +5,7 @@ Agenda for November Meeting
 
 :::info
 - **Location:** Zoom Link Here
-- **Date:** Nov X, 2021 12:00 PM (EST)
+- **Date:** Nov 16, 2021 11:30 AM (EST) 
 - **Agenda**
 1. Test Title `45min`
 	> [name=Yukai]
