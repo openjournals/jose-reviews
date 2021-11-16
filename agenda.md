@@ -10,9 +10,9 @@ Agenda for November Meeting
 1. Changes to documentation guidance to reflect discussions on scope 
     * Current Documentation: [Submitting a Paper Link](https://github.com/openjournals/docs/blob/jose/submitting.md) 
     * Module vs. Lesson language
-2. Review Refresher  
+2. Review Refresher
+    * Bringing on new reviewers  
 3. Editorial Guidelines 
-4. Bringing on new reviewers
 
 - **Host:** Jordan Gorzalski
 :::
