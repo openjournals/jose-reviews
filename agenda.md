@@ -12,6 +12,7 @@ Agenda for November Meeting
     * Module vs. Lesson language
 2. Review Refresher  
 3. Editorial Guidelines 
+4. Bringing on new reviewers
 
 - **Host:** Jordan Gorzalski
 :::
