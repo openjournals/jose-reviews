@@ -1,48 +1,76 @@
-Agenda for November Meeting
+February 18th Meeting
 ===
 
-###### tags: `Agenda` `Meeting` `JOSE`
+###### tags: `Templates` `Meeting`
 
 :::info
-- **Location:** [Zoom Link](https://umich.zoom.us/j/93322248562)
-- **Date:** Nov 16, 2021 11:30 AM (EST) 
-- **Agenda**
-1. Changes to documentation guidance to reflect discussions on scope 
-    * Current Documentation: [Submitting a Paper Link](https://github.com/openjournals/docs/blob/jose/submitting.md) 
-    * Module vs. Lesson language
-2. Review Refresher
-    * Bringing on new reviewers  
-3. Editorial Guidelines 
+- **Location:** Zoom
+- **Date:** Feb 18, 2022 12:00 PM (EST)
 
-- **Host:** Jordan Gorzalski
+
 :::
 
-## Meeting Minutes
 
-1. **Documentation Changes:**
-    * Allison H: yes we need to define it
-    * Chuck S: Module vs. Lesson is never really defined well in any community. With an e.g. somewhere something along the lines of "what might roughly be a week of a college course"
-    * Lorena B: Is this substantial enough work to acquire a DOI? Days/weeks/iterative improvement three weeks of a college course equivalent is the original bar. We won't exclude short content, but if it's being submitted it should be accompanied by other measures of scholarship.
-    * Jason W: College course could be one section for two hours. Maybe we should be transparent that this is a multi-dimensional problem. You could have content that is short but very useful, could also have extremely complicated content that's now been simplified. How many hours to develop? How often has it been iterated? Use a point/formula system?? Give a better idea of our system, our internal bar. One hour of teaching may have had 2 years of work behind it. Gives us at least a general idea of what people are coming from. Send points system to recently published papers and ask people to self score to figure out how this could work/what to look for. 
-    * Shannon Q: What could this point system look like?
-    * Jason W: Time behind the effort? Time the user uses the content? Time of iteration/sessions of use and tweaking? Keep it simple in the documentation, right at the beginning before even submitting. 
-    * Lorena B: How would this apply to software submissions? 
-    * Jason W: Maybe we need a different system for the software side of things? Need to keep it simple. 
-    * Lorena B: We don't want to make subjective assessments about novelty or impact. 
-    * Chuck S: If the paper lacks the impact/interest then that should be enough of a metric. Would assume that the paper would tell us the story of the thing (software, teaching materials) being submitted and why it matters. 
-    * Lorena B: So this should be in the statement of need. 
-    * Allison H: CONDA Environments paper has been a struggle, what are the other pieces that warrant publication? 
-    * Jason W: You could have great numbers but the paper is terrible - reject it. It's really more of a self-check before submitting, not a guarantee that you will be published. 
-    * Shannon Q: The scoring system sets a reasonable baseline for further consideration
-2. **Review Refresher:**
-    * Lorena B: Please check-in on papers you are handling bi-weekly. Also please try to not ask the same reviewers over and over. You can check to see how many papers a reviewer is doing from the JOSE Dashboard down at the bottom, just search the reviewers Git handle. 
-    * Shannon E: Could we add reviewers who are busy for roughly a month to Slack? Just drop a note or something so that people are aware? 
-    * Lorena B: Reach out to people who've just been published and ask if they'd like to review - give back to the community, etc. These things, not asking the same reviewers over and over, we should invest here now to grow the community. Finding reviewers is the hardest part of our job. 
-3. **Other Questions:**
-    * Shannon E: Deadline for reviews? How long do we want to take or estimate? 
-    * Lorena B: That varies based on quality of paper/submit. Will always be a request and will always be late - soft deadlines. If it goes beyond 2 months, pause the review and get back to us when you're ready to restart.  Can also pop in and ask author for an idea of timeline and then set a reminder for the author. 
-    * Shannon Q: A few reviewers have fallen off the face of the earth.
-    * Lorena B: At some point you can make an executive decision to push something through to publication with only one reviewer. Reviewers are *not* gatekeepers. 
-4. **Ideas for module documentation language changes (*Please dump your thoughts here!***):
+## Notes 
 
+**1. The Carpentries (TC) connection! Woohoo!** 
+* :point_up_2: Figure out a fast track review for these
+* Capture in the metadata - capture their internal reviewers, editorial check might be all that we need? 
+* How to collect metadata of review process from the carpentries lab? 
+* Do we need at least one reviewer? Do a quick soft review? 
+* From a tech/submission standpoint the capentries submits should still have to go through the same review process. 
+* Have one of our editors go through (30-60 minutes) and review their submits
+* We don't want a double standard, but we do want a quick review process since they've already been vetted
+* What form would a fast track review take? 
+* The editor essentially does the review, make sure there's nothing missing for our specific requirements
+* The Carpentries already has a fairly robust review so makes sense to just have editor do a quick review - you assign yourself as the reviewer/editor and still go through the checklist
+* Thinking about reviewers now...maybe we have The Carpentries community identify one/maybe two reviewer(s) to do a JOSE review
+* In summary: for each paper in particular - when TC passes over paper they also nominate a reviewer. 
+* Like the idea of adding reviewers from TC community
+
+**2. The Intermediate Earth Analytics Online Textbook**
+* https://github.com/openjournals/jose-reviews/issues/131 
+* Issue with license/it's not that thorough of a work/reviewer took a look and felt like this was too big of a project with too many errors to be reviewed and back out. What do we do? 
+* Is revenue for a course a deal breaker? 
+* Not really, not a criterion that would disqualify something
+* It sounds like two problems (should we even review based on the license type? Given the size of the work should we review?)
+* Because there is so much work needed to be done it sounds like a reject because by the end of the review it sounds like it might be a different work entirely based on the current quality of the work.
+* A book should be published as a book, not a paper. A book needs an ISBN not a DOI. 
+* Reject because this is a book
+* :point_up_2: can self publish and get a DOI if that's what they want, but it's just out of scope for JOSE
+* We just can't ask people to review textbooks
+* Major issues: If it's missing a substantial part we should reject it until it comes back with major issues fixed. 
+* We are in agreement that this submission should be rejected
+* How do we reject graciously? Editorial team met to see if there was any way forward and unfortunately we weren't able to see a way forward with this publication. It does not appear to be the right fit for JOSE. 
+
+**3. Non-Commercial License Policy**
+* Sometimes institutions have specific types of licenses that are acceptable
+* As long as it is an open-source license JOSS is agnostic to it
+* Maybe adopt a policy of recommending but not requiring
+
+**4. Editorial Bot is Changing**
+* Has not hit JOSS yet
+* Arfon did some webinars for JOSS editors so they are aware of changing - if he recorded we should send out to JOSE
+* It's mostly the same bot, just called editorial bot instead of whedon
+* The main difference is related to checklist generation for reviewers
+* You don't have to be added as a collaborator anymore to make comments during review process
+* Doesn't drop reviewers after two weeks of not accepting review request
+* Straight forward handling of branches is also new
+* Submitter can indicate branch, editorial bot then knows to check that branch for everything - Bot will remember
+
+**5. Parting Thoughts**
+* Maybe this is a time that works generally for people, so maybe we could make this a standing meeting. 
+* Make this a regular (maybe third Friday of the month at 12PM)
+* Maybe next step is to figure out how can we publicize JOSE a bit more - what strategies should we be thinking about? 
+* Are there conferences we are going to where we can pub JOSE? 
+* Bioinformatics Open Source Conference is coming up, Jason is going, would like to be able to pub
+* SciPy is happening and Kyle is planning to attend, could pub JOSE there
+* Create a standard blurb/slides about JOSE that we can share at these events? 
+* Have a free 15/30 minutes to work on JOSE things and you aren't editing right now? Work on the blurb/slide deck in Google Slides. 
+* Kyle will share Lightning talk he gave about JOSE in 2018 in Slack
+* Could be a zoom meeting/authors forum/YouTube video posted somewhere? 
+* There is a large space of educators that have no idea that JOSE exists and that they could be publishing here
+* Should we update some sort of expectations for the editors? (every two weeks check-in on your reviewers)
+* Once a month check-in is the minimum, whether it be the meeting, or a ping on slack. 
+* Should also send to the groups.io
 
