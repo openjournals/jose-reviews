@@ -23,5 +23,5 @@ This is how it will look in your documentation:
 
 The Journal of Open Source Education is a community-run journal and relies upon volunteer effort. If you'd like to support us please consider doing either one (or both) of the the following:
 
-- Volunteering to review for us sometime in the future. You can add your name to the reviewer list here: http://jose.theoj.org/reviewer-signup.html
+- Volunteering to review for us sometime in the future. You can add your name to the reviewer list here: https://forms.gle/Rizd3TcHnQKhrbYY7 and go browse on open [Pre-Reviews](https://github.com/openjournals/jose-reviews/issues?q=is%3Aissue%20state%3Aopen%20label%3Apre-review) and volunteer by adding a comment on a submission of your interest.
 - Making a small donation to support our running costs here: https://numfocus.org/donate-to-jose
